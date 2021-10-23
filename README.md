@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kor3i
 - 👀 I’m interested in game hacking
 - 🌱 I’m currently learning C++ csgo sdk
-- 💞️ I’m looking to collaborate on milatap
+- 💞️ I’m do best cs go hack milatap
 - 📫 How to reach me on discord korei#0418
 
 <!---
