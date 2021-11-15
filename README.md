@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kor3i
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning JavaScript/Node.js
+- 👀 I’m interested in game developing
+- 🌱 I’m currently learning c# / UnityEngine
 - 💞️ I’m do best cs go hack milatap
 - 📫 How to reach me on discord korei#0418
 
