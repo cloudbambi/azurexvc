@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kor3i
+- 👋 Hi, I’m @xuzi
 - 👀 I’m interested in game developing
 - 🌱 I’m currently learning c# / UnityEngine
 - 💞️ I’m do best cs go hack milatap
