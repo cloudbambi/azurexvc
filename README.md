@@ -1,5 +1,5 @@
-- 👋 Hi, I’m 
-- 👀 I’m interested in game developing
+- 👋 Hi, I’m sth
+- 👀 I’m interested in web dev
 - 🌱 I’m currently learning js / css / html
 - 💞️ I’m do best cs go hack milatap
 - 📫 How to reach me on discord sth#2970
