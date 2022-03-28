@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning js / css / html
 - 💞️ I’m do best idk
 - 📫 How to reach me on discord azure
+- � Doing fivem lua exec
 
 <!---
 kor3i/kor3i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
